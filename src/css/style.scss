@@ -1,0 +1,13 @@
+body{
+    ul, li{
+        display: block;
+        padding: 0;
+    }
+
+    li{
+        list-style-type: none;
+    }
+
+    @import './todo-list.scss';
+}
+
